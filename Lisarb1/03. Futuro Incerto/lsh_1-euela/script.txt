@@ -1,0 +1,29 @@
+26800      4600      text     No seu pensamento sou rei
+32800      4700      text     E o certo caminho eu não sei
+39400      5100      text     Há mil formas para sorrir
+45100      4400      text     Só uma para ser feliz
+50300      7800      text     No espaço lancei uma canção que vai
+58500      3900      text     ( uma linda canção pra mostrar )
+63000      6500      text     Força nos dreadlocks que só o tempo traz
+69800      4000      text     ( que só o tempo traz )
+74800      5100      text     O bem que ela me fez a noite toda dancei
+80300      3000      text     Se a onda não está aqui
+84000      2400      text     Talvez não possa sentir
+86700      3500      text     Eu e ela
+92200      4000      text     Eu e ela
+97900      4700      text     Eu e ela
+104300      4200      text     Eu e ela
+110000      6300      text     Só eu andei, solidão
+116800      5500      text     Não encontrei flor maior
+131600      2000      text     Se amarrou receba o sorriso e tudo que é bom
+137300      4700      text     Dreadlocks longe estão dos seus valores
+142600      5100      text     Sinais dos pobres homens e suas cores
+148000      2900      text     Mas a música que te faz
+151200      3000      text     Ser feliz pra mim é demais
+154500      2700      text     E os segredos assim se revelarão
+157500      2700      text     E os receios só se quebram
+160400      4300      text     Eu e ela
+166300      4700      text     Eu e ela
+172400      4100      text     Eu e ela
+178500      5600      text     Eu e ela
+

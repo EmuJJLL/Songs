@@ -1,0 +1,17 @@
+2142  8572  text  oooooooooo...
+51118  1849  text  Na  sua  casa  tem  ceia
+53231  1849  text  Na  casa  dele  não  tem
+55344  1849  text  Na  sua  casa  tem  tem  compaixão
+57177  1849  text  Na  casa  dele  tem  compreensão
+59528  15135  text  Infeliz  Natal  ...
+83616  1849  text  Na  sua  casa  tem  alegria
+85722  1849  text  Na  casa  dele  não  tem
+87824  1849  text  Na  sua  casa  bons  amigos
+89914  1849  text  Na  casa  deles  apenas  solidao
+91742  16739  text  Infeliz  Natal  ...
+109005  1844  text  Jingle  Bells!  Jingle  Bells!
+111112  1844  text  Acabou  o  papel
+113223  1844  text  Nao  faz  mal,  nao  faz  mal
+115337  1586  text  Limpa  com  jornaaaaal
+117188  14020  text  Infeliz  Natal  ...
+131473  2647  text  NATAAAAAAAAAAAAL

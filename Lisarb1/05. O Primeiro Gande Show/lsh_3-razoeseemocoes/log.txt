@@ -1,0 +1,2 @@
+2015-01-14 ver 1 (all diffs)
+2015-09-09 ver 1.1 (fix/clone hero)

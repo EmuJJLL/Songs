@@ -1,0 +1,59 @@
+---Referente a mudanças entre a versão 4a -> 4b
+
+...Audio:
+Massacration - The Bull (tava com o nome errado)
+
+...Chart:
+Engenheiros Do Hawaii - Exercito de um homem só (Segunda parte do 1 refrão tava errado)
+
+
+---Referente a mudanças entre a versão 3.1 -> 4a
+
+Capas de baixa qualidade foram trocadas por uma de melhor qualidade.
+
+...
+
+Áudio: Foram trocados os audios com bitrate abaixo de 128kbps,ou frequência maxima menor que 15kHz
+
+Angra - Carry On
+Buchecha - Fico Assim Sem Voce (Acustico)
+CPM22 - Um Minuto para o Fim do Mundo
+Charlie Brown Jr - Ceu Azul
+Charlie Brown Jr - Champagne e Agua Benta
+Charlie Brown Jr - Meu Novo Mundo
+Detonautas Roque Clube - O Amanhã
+Landau - Lata Velha
+Legião Urbana - Tempo Perdido
+Massacration - Sufocators Of Metal
+Massacration - The Bull
+Natiruts - Eu e Ela
+Ozielzinho - Armagedom 
+Pitty - Me Adora
+Raimundos - I Saw You Saying
+Tihuana - Pula
+Tihuana - Renata
+(Piao da casa propria não mudei o audio porque teria que mexer muito a chart)
+
+...
+
+Charts:
+
+---Formatação corrigida--- (A VERSÃO ANTIGA DESSAS CHARTS NÃO FUNCIONAM A PARTIR DA VERSÃO "24.0-1757-master")
+Raimundos - I Saw You Saying
+Charlie Brown Jr - Ceu Azul
+Mindflow - Breakthrough
+
+---Extras--- (Sincronia,notas...)
+Armandinho - Brasileirinho
+Charlie Brown Jr - Só Os Loucos Sabem
+Detonautas Roque Clube - O Amanhã
+Detonautas Roque Clube - Outro Lugar
+Dr. Sin - Futebol, Mulher & Rock'n Roll (com Silvio Luiz)
+Engenheiros do Hawaii - Era Um Garoto...
+Engenheiros do Hawaii - O Papa é Pop
+Mamonas Assassinas - Debil Metal
+Mamonas Assassinas - Robocop Gay
+Ozielzinho - Cross
+Ozielzinho - Wolverine
+Pitty - Equalize
+Raimundos - Eu Quero Ver O Oco

@@ -1,0 +1,44 @@
+21000      3700      text     Pane no sistema, alguem me desconfigurou
+25000      3100      text     Aonde estao meus olhos de robo?
+28600      3100      text     Eu nao sabia, eu nao tinha percebido
+32000      3000      text     Eu sempre achei que era vivo
+35500      3200      text     Parafuso e fluido em lugar de articulacao
+39000      3300      text     Ate achava que aqui batia um coracao
+42400      3400      text     Nada eh organico, eh tudo programado
+46100      3400      text     E eu achando que tinha me libertado
+49900      1400      text     Mas la vem eles novamente
+51600      1400      text     E eu sei o que vao fazer:
+53200      2000      text     Reinstalar o sistema
+56100      3500      text     Pense, fale, compre, beba
+59800      3600      text     Leia, vote, não se esqueça
+63500      3200      text     Use, seja, ouça, diga
+66900      3500      text     Tenha, more, gaste e viva
+70600      3300      text     Pense, fale, compre, beba
+74100      3400      text     Leia, vote, nao se esqueca
+77600      3300      text     Use, seja, ouca, diga...
+91800      1400      text     Nao senhor, Sim senhor 
+93400      3200      text     Nao senhor, Sim senhor
+112900      3700      text     Pane no sistema, alguem me desconfigurou
+117000      3100      text     Aonde estao meus olhos de robo?
+120400      3000      text     Eu nao sabia, eu nao tinha percebido
+123800      3000      text     Eu sempre achei que era vivo
+127100      3300      text     Parafuso e fluido em lugar de articulacao
+130800      3200      text     Ate achava que aqui batia um coracao
+134200      3500      text     Nada eh organico, eh tudo programado
+138000      3000      text     E eu achando que tinha me libertado
+141600      1800      text     Mas la vem eles novamente
+143500      1400      text     E eu sei o que vao fazer:
+145000      2300      text     Reinstalar o sistema
+148000      3400      text     Pense, fale, compre, beba
+151600      3500      text     Leia, vote, não se esqueca
+155200      3300      text     Use, seja, ouca, diga
+158700      3500      text     Tenha, more, gaste e viva
+162300      3300      text     Pense, fale, compre, beba
+165800      3500      text     Leia, vote, nao se esqueca
+169400      3200      text     Use, seja, ouca, diga...
+183400      1700      text     Nao senhor, Sim senhor 
+185200      2900      text     Nao senhor, Sim senhor
+191100      1800      text     Mas la vem eles novamente
+193000      1300      text     E eu sei o que vao fazer:
+
+

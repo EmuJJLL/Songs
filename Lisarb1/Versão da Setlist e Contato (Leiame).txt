@@ -1,0 +1,26 @@
+Lisarb a lenda (para Clone Hero). Setlist por naonemeu
+
+Ultima correção importante: Corrigido formatação de 3 charts que não eram mais aceitas pelo Clone Hero (24.0-1757-master).
+Detalhes no Changelog!
+
+Versão Atual: 4b - 21-07-2020
+
+Versões anteriores:  4a - 15-07-2020
+					3.1 - 05-07-2018	
+					3.0 - 20-02-2018
+					2.0 - 13-10-2017
+					1.1 - 02-11-2016
+					1.0 - 28-10-2016
+
+Algumas charts pertencem a outros,porem a maioria fui eu mesmo que fiz.
+
+Não tenho intenções de fazer todas as dificuldades,pois toma muito tempo e pessoalmente não compensa. Entre em contato caso queira mexer em alguma chart.
+
+Eu não tenho icone tanto pro Lisarb 1 ou 2,caso alguem esteja interessado em fazer o icone (porque sou horrível nisso),entre o contato.
+
+Se o "CH redondo" te incomoda,joga o lisarb.png na pasta dos ícones (Game Icons)
+
+Contato:
+Discord: naonemeu#2724
+Youtube: youtube.com/Zeninguem8
+FoF-FF: https://fretsonfire.org/forums/memberlist.php?mode=viewprofile&u=792495

@@ -1,0 +1,2 @@
+2016-06-29 - ver 1 (PSGP3 Version)
+2017-09-01 - fixed bad MIDI

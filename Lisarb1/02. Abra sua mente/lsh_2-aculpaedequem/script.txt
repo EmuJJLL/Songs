@@ -1,0 +1,105 @@
+1000      2400      text     Frets On Fire Brasil Forum
+3900      4600      text     http://fretsonfirebrasil.forumclan.com/forum.htm
+9200      2000      text     Planet Hemp
+11800      2300      text     A Culpa eh de Quem?
+22300      5200      text     Trabalho oito horas sete dias por semana so por fumar uma erva eu vou entrar em cana
+27700      3700      text     Deputados cheiram e bebem e nao vao para prisao porque eh ilegal?
+31600      2200      text     Eles que lesam a patria e sou eu o marginal
+34100      3600      text     Nao seja alienado eles falam que faz mal e voce aceita calado
+37900      1100      text     Procure se informar
+39200      2400      text     Uma erva natural nao pode te prejudicar
+41800      1100      text     Quem de nos esta errado?
+43000      2200      text     Voce consome estas merdas e eu fumo um baseado
+45400      1300      text     No que voce pensa entao?
+46800      2400      text     Eles pegam a palmatoria e voce estende a mao
+49300      4900      text     Desde pequeno voce eh induzido a fumar induzido a beber ouvindo a tv falar
+54300      3800      text     Digam nao as drogas, use camisinha e para de brigar
+58300      2500      text     Mas beba muito alcool ate a sua barriga inchar
+61000      1000      text     O que voce tem na cabeca?
+62100      2400      text     Tudo que eles te falam voce acha uma beleza
+64700      1000      text     Aprenda a dizer nao 
+65900      1100      text     Pense um pouco meu irmao
+67300      1400      text     Voce tem medo de quem? EAH
+68900      2100      text     Eu fumo a minha erva e nao faco mal a ninguem quem?
+71200      1100      text     A culpa eh de quem?
+72400      1200      text     A culpa eh de quem?
+73700      900      text     EAH 
+75300      700      text     EAH 
+76600      600      text     EAH 
+77400      1100      text     A culpa eh de quem? EAH 
+79000      900      text     EAH 
+80200      1000      text     EAH
+81500      1000      text     EAH 
+82600      500      text     A culpa eh de quem? EAH
+83200      800      text     EAH
+84600      900      text     EAH
+85900      700      text     EAH
+86900      900      text     A culpa eh de quem? EAH
+88000      1000      text     EAH
+89700      700      text     EAH
+91000      700      text     EAH 
+91900      800      text     A culpa eh de quem?
+102500      700      text     A culpa eh de quem? 
+103400      2100      text     Portugueses escravizaram e mataram nosso irmao
+105900      2200      text     Militares torturam e nao foram pra prisao
+108500      2200      text     Eu fumo minha erva e me chamam de ladrao
+110900      2300      text     Os negros ja fumavam erva antes da Africa deixar
+113400      2200      text     Mas os senhores proibiram por nao querer nos libertar  
+115800      3700      text     E os senhores de hoje em dia estao proibindo tambem se o pobre comeca a pensar
+119600      1100      text     Parece que incomoda alguem
+120900      4700      text     Criancas crescem nas ruas nao confiam e m ninguem, escondem nossa cultura, referencia ninguem tem 
+125900      2200      text     O pais ta uma merda e a culpa eh de quem?
+128400      1100      text     A culpa eh de quem?
+129700      1100      text     A culpa eh de quem?
+131000      1100      text     A culpa eh de quem?
+133100      500      text     EAH
+133900      800      text     EAH
+135200      600      text     EAH
+136000      700      text     A culpa eh de quem?
+137500      500      text     EAH 
+138700      500      text     EAH
+139800      600      text     EAH
+140600      900      text     A culpa eh de quem?
+141700      1000      text     EAH
+143300      700      text     EAH
+144600      600      text     EAH
+145400      900      text     A culpa eh de quem?
+146900      700      text     EAH
+148100      700      text     EAH
+149400      500      text     EAH
+150100      900      text     A culpa eh de quem?
+151700      1300      text     EAH
+174000      900      text     A culpa eh de quem?
+175100      2000      text     Eles jogam no planalto e nao pensam em ninguem
+177500      4600      text     Manipulam as leis e vem com papo furado, tudo que incomoda eles, eles dizem ta errado 
+182200      3500      text     Entao quem o marginal, criança corre por socorro e eu que vivo ilegal
+185900      3500      text     tenho que me esconder por uma coisa natural, enquanto eles nada vao
+189700      900      text     Na maior cara de pau
+191000      900      text     Nao vou ficar calado
+192300      800      text     Porque esta tudo errado
+193400      2000      text     politico cruza os bracos e o pais ta uma merda
+195800      1000      text     Trabalho para caraio
+197000      1000      text     E fumo a minha erva
+198300      900      text     Ai eu te pergunto
+199500      1000      text     A culpa eh de quem?
+200700      1000      text     A culpa eh de quem?
+201900      1000      text     A culpa eh de quem?
+203300      800      text     EAH
+204800      800      text     EAH
+206000      800      text     EAH
+207200      800      text     EAH
+208400      800      text     EAH
+209500      800      text     EAH
+210700      600      text     EAH
+211400      1000      text     A culpa eh de quem?
+212600      800      text     EAH
+214200      700      text     EAH
+215400      700      text     EAH
+216300      700      text     A culpa eh de quem?
+218100      400      text     EAH
+218800      700      text     EAH
+219900      700      text     EAH
+221500      200      text     EAH
+221800      3100      text     A culpa eh de quem? EAH
+227700      3800      text     Obrigado por jogar! 
+

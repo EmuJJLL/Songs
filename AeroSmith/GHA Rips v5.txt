@@ -1,0 +1,35 @@
+Guitar Hero - Aerosmith
+
+v5.1 (4/21/2020)
+- Added sustain_cutoff_threshold as an .ini tag to fix sustains that fell below Clone Hero's native sustain threshold
+
+v5 (12/27/2019)
+- Fixed SP to have new accurate import logic, also removed battle SP accidentally imported simultaneously in the last rip
+- Fixed sustains, added sustain threshold/gap import logic
+- Fixed mid-beat sections/bpm
+- Fixed HOPO threshold
+- Re-ripped stems, now higher quality with removed long empty outros
+- Added preview and crowd stems
+- Stem volume has been edited to mirror the in-game volume
+- For Joe Perry's Guitar Battle songs, renamed Career version to "Guitar Battle vs. Joe Perry" and Bonus version to "Joe Perry Guitar Battle" to mirror the actual in-game names. Loading phrases have been added to clarify the difference between the two instead of "(Career)".
+
+v4 (6/10/2019)
+- Added hidden bass/rhythm track for every song except Guitar Battle vs. Joe Perry (Career)
+- Fixed Rats in the Cellar, Shakin' My Cage and Toys in the Attic's HOPOs
+
+v3 (5/15/2019)
+- Converted from .chart to .mid files
+- Replaced LQ album art
+- Added playlist_track
+- Added cover artist information
+- Added Guitar Battle vs. Joe Perry (Career)
+
+v2 (5/9/2019)
+- Re-ripped and converted all songs from GHA (PC)
+- Fixed dummy tracks from previous release (several empty bass/co-op tracks)
+- Replaced all stems with new rips, added co-op stems for all co-op tracks
+- Songs have rhythm track instead of bass where applicable
+- Updated section names to the correct format (verse_1 is now Verse 1, etc.)
+
+v1
+- First release
